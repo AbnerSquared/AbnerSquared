@@ -7,3 +7,7 @@ When I'm not working on Orikivo, I tend to draw quite a bit, plan new ideas out 
 
 ### Anything else?
 As of now, I don't have much to say. However, if I think of a cool idea, I'll be here, coding away if you need me.
+
+> **Web Portal**
+
+[**Ko-Fi**](https://ko-fi.com/abnersquared): I'll be attempting to make this my primary location for developer logs.
