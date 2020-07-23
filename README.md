@@ -11,3 +11,13 @@ As of now, I don't have much to say. However, if I think of a cool idea, I'll be
 > **Web Portal**
 
 [**Ko-Fi**](https://ko-fi.com/abnersquared): I'll be attempting to make this my primary location for developer logs.
+
+[**Orikivo Community Server**](https://discord.gg/387Axar): This is the main server at which I test and work on Orikivo.
+
+[**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): This is currently outdated, but is in the progress of being rewritten. Stay tuned!
+
+> **Misc**
+
+[**DeviantART**](https://www.deviantart.com/abnersquared): I tend to upload here every now and then, if you're interested. :)
+
+[**YouTube**](https://www.youtube.com/channel/UCwq3lVydP6fICUjHQdLdAhg): Developer streams can be considered as well.
