@@ -21,3 +21,5 @@ As of now, I don't have much to say. However, if I think of a cool idea, I'll be
 [**DeviantART**](https://www.deviantart.com/abnersquared): I tend to upload here every now and then, if you're interested. :)
 
 [**YouTube**](https://www.youtube.com/channel/UCwq3lVydP6fICUjHQdLdAhg): Developer streams can be considered as well.
+
+[**Gists**](https://gist.github.com/AbnerSquared): I tend to upload code snippets every now and then.
