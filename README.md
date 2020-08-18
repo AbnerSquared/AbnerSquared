@@ -12,7 +12,7 @@ As of now, I don't have much to say. However, if I think of a cool idea, I'll be
 
 [**Ko-Fi**](https://ko-fi.com/abnersquared): I'll be attempting to make this my primary location for developer logs.
 
-[**Orikivo Community Server**](https://discord.gg/387Axar): This is the main server at which I test and work on Orikivo.
+[**Orikivo Community Server**](https://discord.gg/387Axar): This is the main server at which I test and work on Orikivo on a daily basis.
 
 [**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): This is currently outdated, but is in the progress of being rewritten. Stay tuned!
 
