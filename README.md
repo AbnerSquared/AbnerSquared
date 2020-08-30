@@ -16,6 +16,8 @@ As of now, I don't have much to say. However, if I think of a cool idea, I'll be
 
 [**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): This is currently outdated, but is in the progress of being rewritten. Stay tuned!
 
+[**Invite to Orikivo Arcade**](https://abnersquared.github.io/Orikivo.Web/invites/arcadia): This links you to the invite page for Orikivo Arcade.
+
 > **Misc**
 
 [**DeviantART**](https://www.deviantart.com/abnersquared): I tend to upload here every now and then, if you're interested. :)
