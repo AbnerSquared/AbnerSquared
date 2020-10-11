@@ -1,3 +1,4 @@
+> [**Orikivo**](https://github.com/AbnerSquared/Orikivo) is now open source!
 # **Hey there. I'm AbnerSquared.**
 In my free time, I like to program cool methods, concepts, and ideas that come to mind on a random every day basis.
 Back in 2018, all of those ideas came together to help create Orikivo, a Discord bot written with Discord.Net with the goal to create a unique experience.
