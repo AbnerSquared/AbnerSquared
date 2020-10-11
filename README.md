@@ -10,18 +10,18 @@ As of now, I don't have much to say. However, if I think of a cool idea, I'll be
 
 > **Web Portal**
 
-[**Ko-Fi**](https://ko-fi.com/abnersquared): I'll be attempting to make this my primary location for developer logs.
+[**Ko-Fi**](https://ko-fi.com/abnersquared): I'll be attempting to make this my primary location for developer logs.<br/>
 
-[**Orikivo Community Server**](https://discord.gg/387Axar): This is the main server at which I test and work on Orikivo on a daily basis.
+[**Orikivo Community Server**](https://discord.gg/387Axar): This is the main server at which I test and work on Orikivo on a daily basis.<br/>
 
-[**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): This is currently outdated, but is in the progress of being rewritten. Stay tuned!
+[**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): This website is currently under construction. Stay tuned!<br/>
 
-[**Invite to Orikivo Arcade**](https://abnersquared.github.io/Orikivo.Web/invites/arcadia): This links you to the invite page for Orikivo Arcade.
+[**Invite to Orikivo Arcade**](https://abnersquared.github.io/Orikivo.Web/invites/arcadia): This links you to the invite page for Orikivo Arcade.<br/>
 
 > **Misc**
 
-[**DeviantART**](https://www.deviantart.com/abnersquared): I tend to upload here every now and then, if you're interested. :)
+[**DeviantART**](https://www.deviantart.com/abnersquared): I tend to upload here every now and then, if you're interested. :)<br/>
 
-[**YouTube**](https://www.youtube.com/channel/UCwq3lVydP6fICUjHQdLdAhg): Developer streams can be considered as well.
+[**YouTube**](https://www.youtube.com/channel/UCwq3lVydP6fICUjHQdLdAhg): Developer streams can be considered as well.<br/>
 
-[**Gists**](https://gist.github.com/AbnerSquared): I tend to upload code snippets every now and then.
+[**Gists**](https://gist.github.com/AbnerSquared): I tend to upload code snippets every now and then.<br/>
