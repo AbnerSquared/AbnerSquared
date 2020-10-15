@@ -19,10 +19,4 @@ As of now, I don't have much to say. However, if I think of a cool idea, I'll be
 
 [**Invite to Orikivo Arcade**](https://abnersquared.github.io/Orikivo.Web/invites/arcadia): This links you to the invite page for Orikivo Arcade.<br/>
 
-> **Misc**
-
-[**DeviantART**](https://www.deviantart.com/abnersquared): I tend to upload here every now and then, if you're interested. :)<br/>
-
-[**YouTube**](https://www.youtube.com/channel/UCwq3lVydP6fICUjHQdLdAhg): Developer streams can be considered as well.<br/>
-
 [**Gists**](https://gist.github.com/AbnerSquared): I tend to upload code snippets every now and then.<br/>
