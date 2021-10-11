@@ -1,25 +1,30 @@
-> [**Orikivo**](https://github.com/AbnerSquared/Orikivo) is now open source!
 # **Hey there. I'm AbnerSquared.**
-In my free time, I like to program cool methods, concepts, and ideas that come to mind on a random every day basis.
-Back in 2018, all of those ideas came together to help create Orikivo, a Discord bot written with Discord.Net with the goal to create a unique experience.
+In my free time, I like to draw and work on music, with the rare programming indulgence.
+I taught myself a fair amount of programming from Orikivo, a Discord bot with an assorted variety of random ideas that came to fruition.
 
-## What else do you work on besides Orikivo?
-When I'm not working on Orikivo, I tend to draw quite a bit, plan new ideas out for a future game, study repositories, documentation, and code to learn how to improve myself every day. I'm also in the process of posting old projects for others to freely reference every week.
+## What's next for Orikivo?
+I'm not sure if Orikivo is going to stick around for too much longer.
+I learned a lot from that project, but it ended up being too complex for people to use (which is understandable, nobody would want to read that much).
 
-### Anything else?
-As of now, I don't have much to say. However, if I think of a cool idea, I'll be here, coding away if you need me.
+If Orikivo is going to stick around, a **lot** of features and mechanics would have to be removed (which hurts me, but I'm sure it'd be for the better).
+Since Discord Games Lab is now a thing, it makes it a bit more pointless to keep working on this bot.
+We'll see when the time comes, but I wouldn't count on it.
+
+## Anything else?
+I might be heading to art college soon, and maybe try making some comics?
+Sounds kinda fun.
 
 > **Web Portal**
 
-[**Ko-Fi**](https://ko-fi.com/abnersquared): I'll be attempting to make this my primary location for developer logs.<br/>
+[**Portfolio**](https://abnersquared.github.io/Portfolio/): It's a bit rough right now, but this is where my art and projects will be noted.<br/>
 
-[**Orikivo Community Server**](https://discord.gg/387Axar): This is the main server at which I test and work on Orikivo on a daily basis.<br/>
+[**Instagram**](https://www.instagram.com/abnersquared/): Yeah, I pretty much just chill here now.<br/>
 
-[**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): This website is currently under construction. Stay tuned!<br/>
+[**Orikivo Community Server**](https://discord.gg/387Axar): This is the main server at which I test and work on Orikivo.<br/>
+
+[**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): A relic of an ancient time.<br/>
 
 [**Invite to Orikivo Arcade**](https://abnersquared.github.io/Orikivo.Web/invites/arcadia): This links you to the invite page for Orikivo Arcade.<br/>
-
-[**Gists**](https://gist.github.com/AbnerSquared): I tend to upload code snippets every now and then.<br/>
 
 ## Metrics
 
