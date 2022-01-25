@@ -1,5 +1,5 @@
 # **Hey there. I'm AbnerSquared.**
-In my free time, I like to draw and work on music, with the rare programming indulgence.
+In my free time, I like to draw and work on music, with the occasional programming indulgence.
 I taught myself a fair amount of programming from Orikivo, a Discord bot with an assorted variety of random ideas that came to fruition.
 
 ## What's next for Orikivo?
