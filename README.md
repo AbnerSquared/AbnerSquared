@@ -1,4 +1,4 @@
-# <img src="./lamp_idle.gif" /><br/>**Hey there. I'm AbnerSquared.**
+# <img src="./lamp_idle_test.gif" /><br/>**Hey there. I'm AbnerSquared.**
 In my free time, I like to draw and work on music, with the occasional programming indulgence.
 I taught myself a fair amount of C# programming from Orikivo, a Discord bot with an assorted variety of random ideas that came to fruition.
 
