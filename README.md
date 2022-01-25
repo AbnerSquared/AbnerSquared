@@ -1,13 +1,13 @@
-# <img src="./lamp_idle_test.gif" /><br/>**Hey there. I'm AbnerSquared.**
-In my free time, I like to draw and work on music, with the occasional programming indulgence.
+# **Hey there. I'm AbnerSquared.**
+In my free time, I like to draw and work on music, with the occasional programming indulgence.<br/>
 I taught myself a fair amount of C# programming from Orikivo, a Discord bot with an assorted variety of random ideas that came to fruition.
 
 
 > **Web Portal**
 
-[**Game Jams**](https://abnersquared.itch.io/): This is where my contributions and creations of small games will appear.
+[**Portfolio**](https://abnersquared.github.io/Portfolio/): A snapshot of my project history and favorite pieces.<br/>
 
-[**Portfolio**](https://abnersquared.github.io/Portfolio/): It's a bit rough right now, but this is where my art and projects will be noted.<br/>
+[**Game Jams**](https://abnersquared.itch.io/): This is where my contributions and creations of small games will appear.<br/>
 
 [**Instagram**](https://www.instagram.com/abnersquared/): Yeah, I pretty much just chill here now.<br/>
 
