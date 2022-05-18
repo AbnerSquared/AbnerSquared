@@ -5,6 +5,8 @@ I taught myself a fair amount of C# programming from Orikivo, a Discord bot with
 
 > **Web Portal**
 
+[**Orikivo**](https://github.com/AbnerSquared/Orikivo/tree/v1.0.0rc-1): The largest project I've worked on to date.<br/>
+
 [**Portfolio**](https://abnersquared.github.io/Portfolio/): A snapshot of my project history and favorite pieces.<br/>
 
 [**Game Jams**](https://abnersquared.itch.io/): This is where my contributions and creations of small games will appear.<br/>
