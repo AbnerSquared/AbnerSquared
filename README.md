@@ -5,7 +5,7 @@ I taught myself a fair amount of C# programming from Orikivo, a Discord bot with
 
 > **Web Portal**
 
-[**Orikivo**](https://github.com/AbnerSquared/Orikivo/tree/v1.0.0rc-1): The largest project I've worked on to date.<br/>
+[**Orikivo**](https://github.com/AbnerSquared/Orikivo/tree/v1.0.0rc-1): A Discord bot with an arcade-based premise. The largest project I've worked on to date.<br/>
 
 [**Portfolio**](https://abnersquared.github.io/Portfolio/): A snapshot of my project history and favorite pieces.<br/>
 
@@ -13,17 +13,9 @@ I taught myself a fair amount of C# programming from Orikivo, a Discord bot with
 
 [**Instagram**](https://www.instagram.com/abnersquared/): Yeah, I pretty much just chill here now.<br/>
 
-[**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): A relic of an ancient time.<br/>
+[**Orikivo's Website**](https://abnersquared.github.io/Orikivo.Web/): The official website for Orikivo.<br/>
 
 [**Invite to Orikivo Arcade**](https://abnersquared.github.io/Orikivo.Web/invites/arcadia): This links you to the invite page for Orikivo Arcade.<br/>
-
-## What's next for Orikivo?
-I'm not sure if Orikivo is going to stick around for too much longer.
-I learned a lot from that project, but it ended up being too complex for people to use (which is understandable, nobody would want to read that much).
-
-If Orikivo is going to stick around, a **lot** of features and mechanics would have to be removed (which hurts me, but I'm sure it'd be for the better).
-Since Discord Games Lab is now a thing, it makes it a bit more pointless to keep working on this bot.
-We'll see when the time comes, but I wouldn't count on it.
 
 ## Metrics
 
